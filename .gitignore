@@ -28,4 +28,4 @@
 *.app
 
 # VS
-*.Debug
+**/Debug/**
